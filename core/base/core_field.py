@@ -2,7 +2,7 @@ import six
 
 import core.core_constants as constants
 import core.core_utils as util
-from core.errors_old.core_error import *
+from core.errors.core_error import *
 from core.base.core_enum import *
 from core.utils import validation_util
 
